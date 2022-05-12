@@ -1,0 +1,27 @@
+.navbar {
+    border: 1px solid black;
+    height: 75px;
+}
+
+.logo {
+    height: 75px;
+    float: left;
+}
+
+.options {
+    border: 1px solid black;
+    height: 75px;
+    width: 100px;
+    display: inline-block;
+}
+
+.option {
+    display: inline-block;
+
+}
+
+.content {
+    border: 1px solid black;
+    height: 500px;
+    margin-top: 10px;
+}
